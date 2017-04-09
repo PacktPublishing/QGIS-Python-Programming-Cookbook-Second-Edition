@@ -1,7 +1,7 @@
 # QGIS-Python-Programming-Cookbook-Second-Edition
 This is the code repository of the book, [QGIS Python Programming Cookbook](https://www.packtpub.com/application-development/qgis-python-programming-cookbook-second-edition?utm_source=GitHub&utm_medium=repository&utm_campaign=9781787124837), Second Edition, published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
-# About the Book
+## About the Book
 QGIS is a desktop geographic information system that facilitates data viewing, editing, and analysis. Paired with the most efficient scripting language—Python, we can write effective scripts that extend the core functionality of QGIS.
 
 ## Instructions and Navigations
@@ -16,7 +16,7 @@ The code will look like the following:
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-9)
 
-Software and Hardware List
+### Software and Hardware List
 
 | Chapter  | Software required                   | OS required                            |
 | -------- | ------------------------------------| ---------------------------------------|
