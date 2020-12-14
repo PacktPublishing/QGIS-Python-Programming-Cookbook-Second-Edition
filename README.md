@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/qgis-python-programming-cookbook-second-edition/9781787124837)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1787124835).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # QGIS-Python-Programming-Cookbook-Second-Edition
 This is the code repository of the book, [QGIS Python Programming Cookbook](https://www.packtpub.com/application-development/qgis-python-programming-cookbook-second-edition?utm_source=GitHub&utm_medium=repository&utm_campaign=9781787124837), Second Edition, published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
