@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781787124837)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # QGIS-Python-Programming-Cookbook-Second-Edition
 This is the code repository of the book, [QGIS Python Programming Cookbook](https://www.packtpub.com/application-development/qgis-python-programming-cookbook-second-edition?utm_source=GitHub&utm_medium=repository&utm_campaign=9781787124837), Second Edition, published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
